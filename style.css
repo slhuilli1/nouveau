@@ -1,0 +1,5 @@
+.fichier-recent::after
+{
+  content: "\1F5F2";
+  color: red;
+}
